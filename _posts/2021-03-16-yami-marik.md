@@ -4,6 +4,7 @@ categories:
   - Duel
   - Rebalanced Campaign
 tags:
+  - Duel
   - Mod
   - Video
 ---
