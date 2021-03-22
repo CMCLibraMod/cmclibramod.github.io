@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A rebalancing mod for the game Yu-Gi-Oh! Capsule Monster Coliseum (PS2), with custom duels for more challenge, replay value and monster variety.
 twitter_username: libra_mod
 github_username: CMCLibraMod
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
