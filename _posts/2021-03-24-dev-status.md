@@ -9,7 +9,7 @@ tags:
   - Video
 ---
 
-**Last Updates:** Ishizu Ishtar's 2nd duel is done! Only 3 duels left to finish the Rebalanced Campaign!
+**Last Updates:** Ishizu Ishtar's 2nd duel is done! Only 3 duels left to finish the Rebalanced Campaign (1st playthrough)!
 {: .notice--success}
 
 **Current Task:** Rebuilding Yami Marik's 2nd duel.
