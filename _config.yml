@@ -72,6 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CMCLibraMod"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCdDPfUE7WJX6FkmugA6qBLw"
 
 footer:
   links:
@@ -84,6 +87,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CMCLibraMod"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCdDPfUE7WJX6FkmugA6qBLw"
 
 defaults:
   # _posts
