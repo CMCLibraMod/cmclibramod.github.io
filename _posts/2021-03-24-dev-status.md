@@ -1,0 +1,16 @@
+---
+title: "Development Status - March 24, 2021"
+categories:
+  - Development Status
+  - Duel
+tags:
+  - Status
+  - Mod
+  - Video
+---
+
+**Last Updates:** Ishizu Ishtar's 2nd duel is done! Only 3 duels left to finish the Rebalanced Campaign!
+{: .notice--success}
+
+**Current Task:** Rebuilding Yami Marik's 2nd duel.
+{: .notice}
