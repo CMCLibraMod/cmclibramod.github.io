@@ -11,6 +11,12 @@ Libra Mod offers two modes of gameplay:
 - New Game + mode: still in early development. It will be an additional campaign for players who have finished the RC. Every duelist will be at least as strong as an endgame duelist from the RC, even the first ones. There will be an additional challenge scaling here, so do not expect these duels to be easy!!!
 
 
-=Prerequisites=
+# Prerequisites
 
+Libra Mod works by interacting with Yu-Gi-Oh! CMC through the PCSX2 emulator for PS2 (Windows version). Therefore, in order to play Libra Mod, players need to have:
+- PCSX2 for **Windows**, versions up to 1.6.0 (currently, the it is the last stable release);
+- A Yu-Gi-Oh! Capsule Monster Coliseum (**NTSC**) ISO
 
+# Downloading and Installing Libra Mod
+
+As soon as the mod is stable, information about download methods and installation will be available! Meanwhile, check [the mod's official YouTube channel](https://www.youtube.com/channel/UCdDPfUE7WJX6FkmugA6qBLw).
