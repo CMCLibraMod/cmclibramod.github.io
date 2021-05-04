@@ -14,5 +14,5 @@ tags:
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/Z1ytqhn2VCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Current Task:** Playtests.
+**Current Tasks:** Finish the studies on SPA data and hybridization possibilities, an additional round of rebalancing, now considering the SPAs - which may be weakened or strenghtened - and playtests.
 {: .notice}
