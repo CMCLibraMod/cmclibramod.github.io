@@ -23,4 +23,4 @@ The modded Yami Marik has the following monsters:
 
 I've also given him a symbol Effect Strength of 100, so these monsters are quite sturdy.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J146LLW)
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#000000', 'J3J146LLW');kofiwidget2.draw();</script> 
