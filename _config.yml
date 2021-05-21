@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/libra-scale-drawing-28.jpg"
   bio    : "The first full rebalancing mod for the game Yu-Gi-Oh! Capsule Monster Coliseum (PS2). Offers custom duels and fully rebalanced monsters. <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#000000', 'J3J146LLW');kofiwidget2.draw();</script> "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://cmclibramod.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/libra_mod"
