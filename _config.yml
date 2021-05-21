@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Libra Mod"
   avatar : "/assets/images/libra-scale-drawing-28.jpg"
-  bio    : "The first full rebalancing mod for the game Yu-Gi-Oh! Capsule Monster Coliseum (PS2). Offers rebuilt duels and rebalanced monsters, providing an experience with more challenge, replay value and monster variety. Multiple campaigns are planned, with New Game + modes! <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#000000', 'J3J146LLW');kofiwidget2.draw();</script> "
+  bio    : "The first full rebalancing mod for the game Yu-Gi-Oh! Capsule Monster Coliseum (PS2). It's a new experience with more challenge, replay value and monster variety, with rebuilt duels and rebalancing. <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#000000', 'J3J146LLW');kofiwidget2.draw();</script> "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
