@@ -17,4 +17,4 @@ tags:
 **Current Tasks:** Finish the studies on SPA data and hybridization possibilities, an additional round of rebalancing, now considering the SPAs - which may be weakened or strenghtened - and playtests.
 {: .notice}
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J146LLW)
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#000000', 'J3J146LLW');kofiwidget2.draw();</script> 
