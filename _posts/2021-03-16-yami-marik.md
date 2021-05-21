@@ -22,3 +22,5 @@ The modded Yami Marik has the following monsters:
 - Sky Dragon
 
 I've also given him a symbol Effect Strength of 100, so these monsters are quite sturdy.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J146LLW)
