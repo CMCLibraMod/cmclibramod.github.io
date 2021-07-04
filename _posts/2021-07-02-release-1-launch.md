@@ -14,7 +14,7 @@ To download it, click <a href="../../assets/Releases/Libra Mod - v0.8.1.zip">**h
 
 How to install:
 
-<iframe width="426" height="240" src="https://www.youtube.com/embed/GCTZuH3xAGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="213" height="120" src="https://www.youtube.com/embed/GCTZuH3xAGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Consider supporting the project at Ko-fi (see the button on the left)! This website is hosted by a paid plaftorm, and contributions help me acquire any necessary resources to work on the project, work on its maintenance, do future updates and keep it online!
 
