@@ -85,7 +85,7 @@ Para cada elemento, as mudanças mais importantes são:
 - - Os jogadores de Dark se beneficiarão com algumas mudanças nos monstros de Thunder! Veja abaixo.
 
 - Thunder:
-- - Monstros de Thunder no início do jogo receberam melhorias de ataque e defesa, para deixar o início do jogo para os símbolos Thunder e Dark mais suave.
+- - Monstros de Thunder do início do jogo (exemplo: Steel Scorpion e Kaminarikozou) receberam melhorias de ataque e defesa, para deixar o início do jogo para os símbolos Thunder e Dark mais suave.
 - - Alguns monstros de Thunder receberam melhorias de movimentação e alcance de ataque.
 - - Existem mais monstros Thunder com bons valores de defesa, que se beneficiam do reforço de defesa de Dark.
 - - Thunder agora tem algumas opções de monstros que podem ser usadas por outros elementos, com efeitos de Símbolo mais baixos e bons atributos.
