@@ -92,7 +92,7 @@ For each element, the most important changes are:
 - - A Thunder monster has received a mobility SPA. 
 
 I'm keeping in secret the exact monsters that have received some adjustments, so that players can find out by themselves the usefulness of each piece and the new SPA effects, have fun with them and share the info among themselves.
-I incentivize everyone to test every piece and level them up to see what surprises they offer! Have fun!
+I encourage everyone to test every piece and level them up to see what surprises they offer! Have fun!
 
 Consider supporting the project at Ko-fi (see the button on the left)! Contributions help me acquire any necessary resources to work on the project, work on its maintenance, do future updates and keep this fan-made project online!
 
