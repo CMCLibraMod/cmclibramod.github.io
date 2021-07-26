@@ -11,7 +11,7 @@ tags:
 **EXTRA! EXTRA!** Uma **atualização grande** foi feita no Libra Mod, respondendo a algumas opiniões e sugestões dos jogadores e implementando algumas ideias e ajustes que eu mesmo desenvolvi depois de jogar o mod algumas vezes após o lançamento.
 {: .notice--success}
 
-Para baixar a nova versão, clique aqui <a href="../../assets/Releases/Libra Mod - v0.8.2.zip">**here**</a>. Jogadores que estão começando e querem verificar se o mod funciona: Joey deve ter DOIS monstros de Fogo e DOIS de Vento agora.
+Para baixar a nova versão, clique <a href="../../assets/Releases/Libra Mod - v0.8.2.zip">**aqui**</a>. Jogadores que estão começando e querem verificar se o mod funciona: Joey deve ter DOIS monstros de Fogo e DOIS de Vento agora.
 
 Segue uma lista de mudanças resumida e sem spoilers:
 
