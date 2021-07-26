@@ -95,5 +95,5 @@ Para cada elemento, as mudanças mais importantes são:
 Estou mantendo em segredo os monstros exatos que receberam alguns ajustes, para que os jogadores possam descobrir por si mesmos a utilidade de cada peça e as novas SPAs, se divertir e compartilhar as informações entre si.
 Eu incentivo todos a testar cada peça e evoluir todas para ver que surpresas elas oferecem! Divirtam-se!
 
-Considere apoiar o projeto no Ko-fi (veja o botão à esquerda)! Contribuições me ajudam a adquirir todos os recursos necessários para trabalhar no projeto, e na sua manutenção, fazer atualizações futuras e manter este projeto feito por um único fã online!
+Considere apoiar o projeto no Ko-fi (veja o botão à esquerda)! Contribuições me ajudam a adquirir todos os recursos necessários para trabalhar no projeto e na sua manutenção, fazer atualizações futuras e manter este projeto feito por um único fã online!
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#000000', 'J3J146LLW');kofiwidget2.draw();</sc
