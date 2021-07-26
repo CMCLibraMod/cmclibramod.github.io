@@ -22,7 +22,7 @@ Here's a spoiler-free and summarized list of changes:
 - The extra versions of duels with rare drops are harder.
 - One rare drop monster from Area 4 has been relocated to Area 3.
 - Updates most duels' monster lineups, making them more challenging and varied.
-- Adjusts the rebelancing for all elements, aiming to make the experience fairer.
+- Adjusts the rebalancing for all elements, aiming to make the experience fairer.
 - Adjusts some SPAs' level requirements. Some of them are higher, since their monsters are obtained at high levels.
 - Creates new SPAs for some elements, in order to fill some efficiency gaps. These SPAs have blank names!
 - Some already existing SPAs have received adjustments in range and power (mostly buffs).
