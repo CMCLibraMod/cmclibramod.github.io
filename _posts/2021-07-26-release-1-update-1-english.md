@@ -84,7 +84,7 @@ For each element, the most important changes are:
 - - Dark players will benefit from some changes in Thunder monsters! See them below.
 
 - Thunder:
-- - Early-game Thunder monsters have received stat buffs, in order to make the early game for Thunder and Dark symbols smoother.
+- - Early-game Thunder monsters (examples: Steel Scorpion e Kaminarikozou) have received stat buffs, in order to make the early game for Thunder and Dark symbols smoother.
 - - Some Thunder monsters have received range improvements.
 - - There are more Thunder monsters with good defensive values, which benefit from Dark's defense boost.
 - - Thunder has now some options that may be used by other elements, with lower Symbol effects and good base stats.
