@@ -80,7 +80,7 @@ Para cada elemento, as mudanças mais importantes são:
 - Dark:
 - - Monstros de Dark do final do jogo recebem um aumento de DF, então eles não morrem tão facilmente.
 - - Um monstro raro de Dark apareceu nesta atualização!
-- - 3 monstros das desse elemento recebem SPAs úteis. A primeira é de suporte, a segunda é ofensiva e a terceira tem vários efeitos.
+- - 4 monstros das desse elemento recebem SPAs úteis. A primeira é de suporte, a segunda e a terceira são ofensivas e a última tem vários efeitos.
 - - Alguns monstros de Dark foram realocados, para que sejam acessíveis mais cedo por meio de duelos.
 - - Os jogadores de Dark se beneficiarão com algumas mudanças nos monstros de Thunder! Veja abaixo.
 
