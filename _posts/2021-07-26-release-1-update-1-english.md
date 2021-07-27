@@ -79,7 +79,7 @@ For each element, the most important changes are:
 - Dark:
 - - Late-game Dark monsters receive a DF buff, so they don't die so easily.
 - - A Dark rare monster has appeared in this update!
-- - 3 Dark monsters receive useful SPAs. The first is for support, the second is offensive and the third one has various effects.
+- - 4 Dark monsters receive useful SPAs. The first is for support, the second and third are offensive and the last one has various effects.
 - - Some Dark monsters have been relocated, so that they are accessible earlier through duels.
 - - Dark players will benefit from some changes in Thunder monsters! See them below.
 
