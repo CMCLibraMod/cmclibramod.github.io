@@ -11,7 +11,7 @@ tags:
 **BREAKING NEWS:** A **large update** has been performed on Libra Mod, following some of the players' feedbacks and implementing some ideas and adjustments I've developed myself after conducting post-release additional playthroughs.
 {: .notice--success}
 
-To download it, click <a href="../../assets/Releases/Libra Mod - v0.8.2.zip">**here**</a>. For players who are starting and want to check if the mod works: Joey should have 2 Fire monsters and 2 Wind ones now.
+To download it, click <a href="../../assets/Releases/Libra Mod - v0.8.2.zip">**here**</a>. You can delete the files for the previous version of Libra and use the .exe downloaded here. For players who are starting and want to check if the mod works: Joey should have 2 Fire monsters and 2 Wind ones now.
 
 Here's a spoiler-free and summarized list of changes:
 
