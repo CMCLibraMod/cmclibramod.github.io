@@ -51,9 +51,9 @@ For each element, the most important changes are:
 - - Gaia the Dragon Champion receives attack damage and attack range nerfs. Don't worry, though: it's still a pretty strong piece. Its fusion materials are slightly harder to obtain, too.
 - - Thousand Dragon receives a damage nerf. Its materials do not appear so often, too.
 - - Two late-game Wind options from the shop are significantly improved. One is specialized in offense and the other is specialized in defense and support. The offense option receives a mobility SPA and the support option receives a support SPA. Those monsters did not originally have SPAs.
-- - Killer Needle, which was an underwhelming monster, receives adjustments to give it an specific utility now.
+- - Killer Needle, which was an underwhelming monster, receives adjustments to give it a specific utility now.
 - - One of the added unused monsters for the "treasure hunt" is a Wind monster!
-- - Other monsters have received slight adjustment to offer a fairer experience when playing as Wind and against Wind.
+- - Other monsters have received slight adjustments to offer a fairer experience when playing as Wind and against Wind.
 - - Wind players will benefit from some changes in Fire monsters! See below.
 
 - Fire:
