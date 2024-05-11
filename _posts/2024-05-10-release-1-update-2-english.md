@@ -2,7 +2,6 @@
 title: "Release 1, Update 2 (English)"
 categories:
   - Development Status
-  - Fix
 tags:
   - Mod
   - Fix
