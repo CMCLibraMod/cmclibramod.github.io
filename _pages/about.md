@@ -15,8 +15,8 @@ Libra Mod will offer three modes of gameplay:
 # Prerequisites
 
 Libra Mod works by interacting with Yu-Gi-Oh! CMC through the PCSX2 emulator for PS2 (Windows version). Therefore, in order to play Libra Mod, players need to have:
-- PCSX2 for **Windows**, versions up to 1.6.0 (currently, the it is the last stable release);
-- A Yu-Gi-Oh! Capsule Monster Coliseum (**NTSC**) ISO
+- PCSX2 for **Windows**, versions from 1.7.0 onwards -> you can use the latest stable or latest nightly;
+- A Yu-Gi-Oh! Capsule Monster Coliseum (**NTSC North-American**) ISO
 
 # Downloading and Installing Libra Mod
 
