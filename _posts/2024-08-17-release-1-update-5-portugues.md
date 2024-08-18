@@ -1,5 +1,5 @@
 ---
-title: "Release 1, Update 5 (Português) - Conserto de bug do Max AP"
+title: "Release 1, Update 5 (Português) - Retrocompatibilidade"
 categories:
   - Development Status
 tags:
