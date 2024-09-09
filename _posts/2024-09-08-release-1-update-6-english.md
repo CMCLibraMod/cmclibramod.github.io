@@ -2,9 +2,10 @@
 title: "Release 1, Update 6 (English) - Crash Fix - Rare Duel Notifications - Keith Fix"
 categories:
   - Development Status
-  - Bug Fix
 tags:
   - Mod
+  - Bug Fix
+  - Rare Duels
 ---
 
 **Very important news:** Libra Mod has received an update, with two bug fixes and a small quality of life improvement.

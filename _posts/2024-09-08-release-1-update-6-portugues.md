@@ -2,9 +2,10 @@
 title: "Release 1, Update 6 (Português) - Resolvendo Crashes - Notificações de Duelos Raros - Conserto no Duelo do Keith"
 categories:
   - Development Status
-  - Bug Fix
 tags:
   - Mod
+  - Bug Fix
+  - Rare Duels
 ---
 
 **Notícias muito importantes:** O Libra recebeu uma nova atualização, com dois consertos de bugs e uma pequena melhoria de "qualidade de vida", que vai ajudar na hora de buscar os duelos raros.
