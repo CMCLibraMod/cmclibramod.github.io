@@ -14,7 +14,7 @@ tags:
 Essa atualização:
 - resolve casos em que o jogo trava depois de duelos (mais frequentemente depois de se render e voltar à seleção de duelos, e depois de duelos específicos, como Yami Marik 1 ou 2), para versões do PCSX2 a partir de 1.7.
 - conserta um bug no qual o duelo raro do Bandit Keith não tinha o símbolo com o Effect Strength correto.
-- addiciona um som de notificação para quando um jogador entra num duelo raro. Confira que o arquivo .wav que está indo no .zip desta versão permanece no mesmo diretório do mod, para a notificação funcionar!
+- adiciona um som de notificação para quando um jogador entra num duelo raro. Confira que o arquivo .wav que está indo no .zip desta versão permanece no mesmo diretório do mod, para a notificação funcionar!
 
 Para baixar, clique <a href="../../assets/Releases/Libra Mod - v0.8.7.zip">**aqui**</a>. Jogadores que estão começando e querem verificar se o mod funciona: Joey deve ter DOIS monstros de Fogo e DOIS de Vento agora. Confirme que o seu executável do PCSX2 se chama "pcsx2-qt.exe" ou "pcsx2.exe"!
 
