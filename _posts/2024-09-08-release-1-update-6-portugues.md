@@ -1,5 +1,5 @@
 ---
-title: "Release 1, Update 6 (Português) - Resolvendo Crashes | Notificações de Duelos Raros | Conserto no Duelo do Keith"
+title: "Release 1, Update 6 (Português) - Resolvendo Crashes - Notificações de Duelos Raros - Conserto no Duelo do Keith"
 categories:
   - Development Status
   - Bug Fix

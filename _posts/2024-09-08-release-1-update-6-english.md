@@ -1,5 +1,5 @@
 ---
-title: "Release 1, Update 6 (English) - Crash Fix | Rare Duel Notifications | Keith Fix"
+title: "Release 1, Update 6 (English) - Crash Fix - Rare Duel Notifications - Keith Fix"
 categories:
   - Development Status
   - Bug Fix
