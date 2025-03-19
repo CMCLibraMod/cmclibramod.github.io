@@ -8,7 +8,7 @@ tags:
   - Rare Duels
 ---
 
-**Notícias muito importantes:** Versão 0.8.7 lançada recentemente está com um novo bug que faz com que algumas vezes os duelos estejam com todos os monstros no nível 1! Não baixe por enquanto! Estou tentando consertar!
+**Notícias muito importantes:** Versão 0.8.6 lançada recentemente está com um novo bug que faz com que algumas vezes os duelos estejam com todos os monstros no nível 1! Não baixe por enquanto! Estou tentando consertar!
 
 O Libra recebeu uma nova atualização, com dois consertos de bugs e uma pequena melhoria de "qualidade de vida", que vai ajudar na hora de buscar os duelos raros.
 {: .notice--success}
