@@ -8,7 +8,7 @@ tags:
   - Rare Duels
 ---
 
-**Very important news:** Version 0.8.7, released previously, has a bug in which duels have all monsters in level 1, when it should not be case! Do not download it now! I'm trying to fix it!
+**Very important news:** Version 0.8.6, released previously, has a bug in which duels have all monsters in level 1!
 
 Libra Mod has received an update, with two bug fixes and a small quality of life improvement.
 {: .notice--success}
