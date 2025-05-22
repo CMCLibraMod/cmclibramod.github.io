@@ -20,4 +20,4 @@ Libra Mod works by interacting with Yu-Gi-Oh! CMC through the PCSX2 emulator for
 
 # Downloading and Installing Libra Mod
 
-Click [here]([https://www.youtube.com/channel/UCdDPfUE7WJX6FkmugA6qBLw](https://youtu.be/-g_2n4TUI3o)) to see installation instructions for the most recent version!
+Click [here](https://www.youtube.com/watch?v=KOaFqEfh7BQ) to see installation instructions for the most recent version!
